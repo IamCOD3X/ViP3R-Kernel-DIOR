@@ -1,7 +1,7 @@
 # ViP3R-Kernel-DIOR
 
   It's a Kali NetNunter built for smoothness, battery, Monitor Mode and More.
-  ![alt text](https://github.com/MIDNIGHT-DEVELOPER/ViP3R-Kernel-DIOR/blob/main/Screenshot_20230105-161438.png?raw=true)
+  ![alt text](https://github.com/MIDNIGHT-DEVELOPER/ViP3R-Kernel-DIOR/blob/main/Screenshot_20230105-161500.png?raw=true)
  
 # Downloads
   Link- https://mega.nz/file/7yRgnBzZ#8ZxSQdI6sxRYHgImAPtZwbpFZ0624062XM2hFnssdGY
