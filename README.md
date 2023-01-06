@@ -1,6 +1,8 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 [![Twitter: \_\_DECODER\_\_](https://img.shields.io/twitter/follow/\_\_DECODER\_\_.svg?style=social)](https://twitter.com/\_\_DECODER\_\_)
+
 # ViP3R-Kernel-DIOR 👋
+![alt text](https://github.com/IamCOD3X/ViP3R-Kernel-DIOR/blob/main/VIPER.png?raw=true)
   <b> It's a Kali NetNunter built for smoothness, battery, Monitor Mode and HID Support.
   
   Try at your own risk.. I will be not responsible is something happens to your device.
