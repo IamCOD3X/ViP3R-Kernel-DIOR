@@ -3,7 +3,7 @@
 
 # ViP3R-Kernel-DIOR 👋
 ![alt text](https://github.com/IamCOD3X/ViP3R-Kernel-DIOR/blob/main/VIPER.png?raw=true)
-  <b> It's a Kali NetNunter built for smoothness, battery, Monitor Mode and HID Support.
+  <b> It's a Kali NetNunter built for smoothness,FastCharging, battery, Monitor Mode and HID Support.
   
   Try at your own risk.. I will be not responsible is something happens to your device.
   
@@ -24,7 +24,7 @@
   Based on CM-14.1 , linux.org latest 3.4.x base & LOS14.1 official sources with selectively picked mods/patches
 
 ## Updates
-  Created 2023-01-05
+  Created 2023-01-05 <br>
   Last Updated 2023-01-06
 
 ## POC
