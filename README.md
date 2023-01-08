@@ -8,9 +8,14 @@
   Try at your own risk.. I will be not responsible is something happens to your device.
   
 ## Downloads:
-  <b> LINK: [FLASHABLE ZIP](https://mega.nz/file/XvJEGLTT#0-k--3MQOYRre6mg9VRzxSZg9xYJyqROmRfWLLElhwI) For Nethunter Installer, TWRP, Magisk. <br>
-  <b> LINK: [BOOT.IMG](https://mega.nz/file/DvZWGLjQ#qJaeZmxVU19TuNoZO-i_YaWllsUPDmOZ67yUroEFm9I) For TWRP or Recovery Only
+  ### Version 1.0 Supports HID Support, Fast Charging, Better Battery Optimization
   
+  <b> LINK: [FLASHABLE ZIP Ver-1.0](https://mega.nz/file/XvJEGLTT#0-k--3MQOYRre6mg9VRzxSZg9xYJyqROmRfWLLElhwI) For Nethunter Installer, TWRP. <br>
+  <b> LINK: [BOOT.IMG Ver-1.0](https://mega.nz/file/DvZWGLjQ#qJaeZmxVU19TuNoZO-i_YaWllsUPDmOZ67yUroEFm9I) For TWRP or Other Recovery Only.
+  
+  ### Version 1.5 Supports HID Support, Fast Charging, Better Battery Optimization, More USB Wireless Adapters.
+  <b> LINK: [FLASHABLE ZIP Ver-1.5](https://mega.nz/file/H6hyTAZB#qBhX9XBDEaxSM4YLRP9g1lkOiNO3YA7zAeSYUFBavmo) For Nethunter Installer, TWRP. <br>
+  <b> LINK: [BOOT.IMG Ver-1.5](https://mega.nz/file/2rYTCQhC#NIaVcBGZvCBqpSbfxK37k9ujvKo-gkokl3X59u3-SBU) For TWRP or Other Recovery Only.
   
 ## Source Code:
   LINK: [KERNEL-SOURCE-CODE](
