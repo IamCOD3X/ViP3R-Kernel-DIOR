@@ -23,7 +23,6 @@
   
 ## Version Information
   Status: Stable
-  Camera, WiFi , Flashlight working well.
 
 ## Kernel Special Features: 
   Based on CM-14.1 , linux.org latest 3.4.x base & LOS14.1 official sources with selectively picked mods/patches
