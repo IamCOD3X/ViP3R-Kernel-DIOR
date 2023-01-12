@@ -17,6 +17,10 @@
   <b> LINK: [FLASHABLE ZIP Ver-1.5](https://mega.nz/file/H6hyTAZB#qBhX9XBDEaxSM4YLRP9g1lkOiNO3YA7zAeSYUFBavmo) For Nethunter Installer, TWRP. <br>
   <b> LINK: [BOOT.IMG Ver-1.5](https://mega.nz/file/2rYTCQhC#NIaVcBGZvCBqpSbfxK37k9ujvKo-gkokl3X59u3-SBU) For TWRP or Other Recovery Only.
   
+  
+  ### Version 1.5 Supports HID Support, Fast Charging, Better Battery Optimization, More USB Wireless Adapters.
+  <b> LINK: [FLASHABLE ZIP Ver-2.0](https://mega.nz/file/H7o1CS7C#LQ6lYzQjmu4d6utzqeO7lxxhh3Gn-J0uP6qDu8IE91Q) For Nethunter Installer, TWRP. <br>
+  
 ## Source Code:
   LINK: [KERNEL-SOURCE-CODE](
   https://github.com/MIDNIGHT-DEVELOPER/Kernel_Source_N_dior.git)
